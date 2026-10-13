@@ -102,19 +102,3 @@ If you use this work, please cite:
 👤 Author
 Farhan Ahmad Awan
 
----
-
-### 🎯 What This README Does for You
-
-1. **Establishes credibility** — "Published in..." at the top signals this is real research, not a toy project.
-2. **Explains the problem** — anyone (recruiter, researcher) understands *why* Urdu summarization matters.
-3. **Shows the pipeline** — the ASCII diagram makes the method instantly scannable.
-4. **Provides results** — numbers from your paper make it concrete.
-5. **Includes citation** — critical for academic work; other researchers can cite you properly.
-6. **Links the paper** — the PDF in the repo is a strong asset.
-
-### 📌 How to Add It
-
-```powershell
-cd "C:\Users\Farhan\Desktop\Text Summarizer-20261012T092022Z-1-001\Text Summarizer"
-notepad README.md
