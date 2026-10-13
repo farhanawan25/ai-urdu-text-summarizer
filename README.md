@@ -86,6 +86,8 @@ Adapt the framework to other low-resource languages
 
 Integrate additional preprocessing steps for Urdu morphology
 
+---
+
 📖 Citation
 If you use this work, please cite:
 @inproceedings{khan2024unsupervised,
@@ -95,9 +97,12 @@ If you use this work, please cite:
   year={2024}
 }
 
+---
+
 👤 Author
 Farhan Ahmad Awan
 
+---
 
 ### 🎯 What This README Does for You
 
